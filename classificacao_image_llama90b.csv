@@ -1,0 +1,417 @@
+ID,Image_path,Label_Verdadeiro,Classificacao_LLM
+1,dataset_split/dataset_split\test\healthy\1000.png,healthy,Healthy
+2,dataset_split/dataset_split\test\healthy\850.png,healthy,Healthy
+3,dataset_split/dataset_split\test\healthy\851.png,healthy,Healthy
+4,dataset_split/dataset_split\test\healthy\852.png,healthy,Healthy
+5,dataset_split/dataset_split\test\healthy\853.png,healthy,Healthy
+6,dataset_split/dataset_split\test\healthy\854.png,healthy,Healthy
+7,dataset_split/dataset_split\test\healthy\855.png,healthy,Healthy
+8,dataset_split/dataset_split\test\healthy\856.png,healthy,Healthy
+9,dataset_split/dataset_split\test\healthy\857.png,healthy,Healthy
+10,dataset_split/dataset_split\test\healthy\858.png,healthy,Healthy
+11,dataset_split/dataset_split\test\healthy\859.png,healthy,Healthy
+12,dataset_split/dataset_split\test\healthy\860.png,healthy,Healthy
+13,dataset_split/dataset_split\test\healthy\861.png,healthy,Healthy
+14,dataset_split/dataset_split\test\healthy\862.png,healthy,Healthy
+15,dataset_split/dataset_split\test\healthy\863.png,healthy,Healthy
+16,dataset_split/dataset_split\test\healthy\864.png,healthy,Mild DR
+17,dataset_split/dataset_split\test\healthy\865.png,healthy,Healthy
+18,dataset_split/dataset_split\test\healthy\866.png,healthy,Healthy
+19,dataset_split/dataset_split\test\healthy\867.png,healthy,Healthy
+20,dataset_split/dataset_split\test\healthy\868.png,healthy,Healthy
+21,dataset_split/dataset_split\test\healthy\869.png,healthy,Healthy
+22,dataset_split/dataset_split\test\healthy\870.png,healthy,Moderate DR
+23,dataset_split/dataset_split\test\healthy\871.png,healthy,Healthy
+24,dataset_split/dataset_split\test\healthy\872.png,healthy,Healthy
+25,dataset_split/dataset_split\test\healthy\873.png,healthy,Healthy
+26,dataset_split/dataset_split\test\healthy\874.png,healthy,Healthy
+27,dataset_split/dataset_split\test\healthy\875.png,healthy,Healthy
+28,dataset_split/dataset_split\test\healthy\876.png,healthy,Healthy
+29,dataset_split/dataset_split\test\healthy\877.png,healthy,Healthy
+30,dataset_split/dataset_split\test\healthy\878.png,healthy,Healthy
+31,dataset_split/dataset_split\test\healthy\879.png,healthy,Mild DR
+32,dataset_split/dataset_split\test\healthy\880.png,healthy,Healthy
+33,dataset_split/dataset_split\test\healthy\881.png,healthy,Healthy
+34,dataset_split/dataset_split\test\healthy\882.png,healthy,Healthy
+35,dataset_split/dataset_split\test\healthy\883.png,healthy,Healthy
+36,dataset_split/dataset_split\test\healthy\884.png,healthy,Healthy
+37,dataset_split/dataset_split\test\healthy\885.png,healthy,Moderate DR
+38,dataset_split/dataset_split\test\healthy\886.png,healthy,Healthy
+39,dataset_split/dataset_split\test\healthy\887.png,healthy,Healthy
+40,dataset_split/dataset_split\test\healthy\888.png,healthy,Healthy
+41,dataset_split/dataset_split\test\healthy\889.png,healthy,Healthy
+42,dataset_split/dataset_split\test\healthy\890.png,healthy,Healthy
+43,dataset_split/dataset_split\test\healthy\891.png,healthy,Healthy
+44,dataset_split/dataset_split\test\healthy\892.png,healthy,Healthy
+45,dataset_split/dataset_split\test\healthy\893.png,healthy,Healthy
+46,dataset_split/dataset_split\test\healthy\894.png,healthy,Moderate DR
+47,dataset_split/dataset_split\test\healthy\895.png,healthy,Healthy
+48,dataset_split/dataset_split\test\healthy\896.png,healthy,Healthy
+49,dataset_split/dataset_split\test\healthy\897.png,healthy,Healthy
+50,dataset_split/dataset_split\test\healthy\898.png,healthy,Healthy
+51,dataset_split/dataset_split\test\healthy\899.png,healthy,Healthy
+52,dataset_split/dataset_split\test\healthy\900.png,healthy,Healthy
+53,dataset_split/dataset_split\test\healthy\901.png,healthy,Healthy
+54,dataset_split/dataset_split\test\healthy\902.png,healthy,Healthy
+55,dataset_split/dataset_split\test\healthy\903.png,healthy,Healthy
+56,dataset_split/dataset_split\test\healthy\904.png,healthy,Healthy
+57,dataset_split/dataset_split\test\healthy\905.png,healthy,Healthy
+58,dataset_split/dataset_split\test\healthy\906.png,healthy,Mild DR
+59,dataset_split/dataset_split\test\healthy\907.png,healthy,Healthy
+60,dataset_split/dataset_split\test\healthy\908.png,healthy,Healthy
+61,dataset_split/dataset_split\test\healthy\909.png,healthy,Healthy
+62,dataset_split/dataset_split\test\healthy\910.png,healthy,Healthy
+63,dataset_split/dataset_split\test\healthy\911.png,healthy,Healthy
+64,dataset_split/dataset_split\test\healthy\912.png,healthy,Moderate DR
+65,dataset_split/dataset_split\test\healthy\913.png,healthy,Healthy
+66,dataset_split/dataset_split\test\healthy\914.png,healthy,Healthy
+67,dataset_split/dataset_split\test\healthy\915.png,healthy,Healthy
+68,dataset_split/dataset_split\test\healthy\916.png,healthy,Healthy
+69,dataset_split/dataset_split\test\healthy\917.png,healthy,Proliferative DR
+70,dataset_split/dataset_split\test\healthy\918.png,healthy,Healthy
+71,dataset_split/dataset_split\test\healthy\919.png,healthy,Mild DR
+72,dataset_split/dataset_split\test\healthy\920.png,healthy,Healthy
+73,dataset_split/dataset_split\test\healthy\921.png,healthy,Healthy
+74,dataset_split/dataset_split\test\healthy\922.png,healthy,Healthy
+75,dataset_split/dataset_split\test\healthy\923.png,healthy,Healthy
+76,dataset_split/dataset_split\test\healthy\924.png,healthy,Healthy
+77,dataset_split/dataset_split\test\healthy\925.png,healthy,Healthy
+78,dataset_split/dataset_split\test\healthy\926.png,healthy,Healthy
+79,dataset_split/dataset_split\test\healthy\927.png,healthy,Healthy
+80,dataset_split/dataset_split\test\healthy\928.png,healthy,Healthy
+81,dataset_split/dataset_split\test\healthy\929.png,healthy,Healthy
+82,dataset_split/dataset_split\test\healthy\930.png,healthy,Healthy
+83,dataset_split/dataset_split\test\healthy\931.png,healthy,Moderate DR
+84,dataset_split/dataset_split\test\healthy\932.png,healthy,Healthy
+85,dataset_split/dataset_split\test\healthy\933.png,healthy,Healthy
+86,dataset_split/dataset_split\test\healthy\934.png,healthy,Healthy
+87,dataset_split/dataset_split\test\healthy\935.png,healthy,Healthy
+88,dataset_split/dataset_split\test\healthy\936.png,healthy,Mild DR
+89,dataset_split/dataset_split\test\healthy\937.png,healthy,Healthy
+90,dataset_split/dataset_split\test\healthy\938.png,healthy,Moderate DR
+91,dataset_split/dataset_split\test\healthy\939.png,healthy,Healthy
+92,dataset_split/dataset_split\test\healthy\940.png,healthy,Moderate DR
+93,dataset_split/dataset_split\test\healthy\941.png,healthy,Healthy
+94,dataset_split/dataset_split\test\healthy\942.png,healthy,Healthy
+95,dataset_split/dataset_split\test\healthy\943.png,healthy,Healthy
+96,dataset_split/dataset_split\test\healthy\944.png,healthy,Healthy
+97,dataset_split/dataset_split\test\healthy\945.png,healthy,Healthy
+98,dataset_split/dataset_split\test\healthy\946.png,healthy,Mild DR
+99,dataset_split/dataset_split\test\healthy\947.png,healthy,Healthy
+100,dataset_split/dataset_split\test\healthy\948.png,healthy,Healthy
+101,dataset_split/dataset_split\test\healthy\949.png,healthy,Healthy
+102,dataset_split/dataset_split\test\healthy\950.png,healthy,Healthy
+103,dataset_split/dataset_split\test\healthy\951.png,healthy,Healthy
+104,dataset_split/dataset_split\test\healthy\952.png,healthy,Healthy
+105,dataset_split/dataset_split\test\healthy\953.png,healthy,Healthy
+106,dataset_split/dataset_split\test\healthy\954.png,healthy,Healthy
+107,dataset_split/dataset_split\test\healthy\955.png,healthy,Healthy
+108,dataset_split/dataset_split\test\healthy\956.png,healthy,Healthy
+109,dataset_split/dataset_split\test\healthy\957.png,healthy,Healthy
+110,dataset_split/dataset_split\test\healthy\958.png,healthy,Proliferative DR
+111,dataset_split/dataset_split\test\healthy\959.png,healthy,Healthy
+112,dataset_split/dataset_split\test\healthy\960.png,healthy,Healthy
+113,dataset_split/dataset_split\test\healthy\961.png,healthy,Healthy
+114,dataset_split/dataset_split\test\healthy\962.png,healthy,Mild DR
+115,dataset_split/dataset_split\test\healthy\963.png,healthy,Healthy
+116,dataset_split/dataset_split\test\healthy\964.png,healthy,Healthy
+117,dataset_split/dataset_split\test\healthy\965.png,healthy,Healthy
+118,dataset_split/dataset_split\test\healthy\966.png,healthy,Healthy
+119,dataset_split/dataset_split\test\healthy\967.png,healthy,Healthy
+120,dataset_split/dataset_split\test\healthy\968.png,healthy,Moderate DR
+121,dataset_split/dataset_split\test\healthy\969.png,healthy,Healthy
+122,dataset_split/dataset_split\test\healthy\970.png,healthy,Healthy
+123,dataset_split/dataset_split\test\healthy\971.png,healthy,Healthy
+124,dataset_split/dataset_split\test\healthy\972.png,healthy,Healthy
+125,dataset_split/dataset_split\test\healthy\973.png,healthy,Healthy
+126,dataset_split/dataset_split\test\healthy\974.png,healthy,Healthy
+127,dataset_split/dataset_split\test\healthy\975.png,healthy,Healthy
+128,dataset_split/dataset_split\test\healthy\976.png,healthy,Healthy
+129,dataset_split/dataset_split\test\healthy\977.png,healthy,Healthy
+130,dataset_split/dataset_split\test\healthy\978.png,healthy,Healthy
+131,dataset_split/dataset_split\test\healthy\979.png,healthy,Healthy
+132,dataset_split/dataset_split\test\healthy\980.png,healthy,Moderate DR
+133,dataset_split/dataset_split\test\healthy\981.png,healthy,Healthy
+134,dataset_split/dataset_split\test\healthy\982.png,healthy,Mild DR
+135,dataset_split/dataset_split\test\healthy\983.png,healthy,Healthy
+136,dataset_split/dataset_split\test\healthy\984.png,healthy,Mild DR
+137,dataset_split/dataset_split\test\healthy\985.png,healthy,Healthy
+138,dataset_split/dataset_split\test\healthy\986.png,healthy,Healthy
+139,dataset_split/dataset_split\test\healthy\987.png,healthy,Moderate DR
+140,dataset_split/dataset_split\test\healthy\988.png,healthy,Healthy
+141,dataset_split/dataset_split\test\healthy\989.png,healthy,Healthy
+142,dataset_split/dataset_split\test\healthy\990.png,healthy,Healthy
+143,dataset_split/dataset_split\test\healthy\991.png,healthy,Healthy
+144,dataset_split/dataset_split\test\healthy\992.png,healthy,Healthy
+145,dataset_split/dataset_split\test\healthy\993.png,healthy,Healthy
+146,dataset_split/dataset_split\test\healthy\994.png,healthy,Healthy
+147,dataset_split/dataset_split\test\healthy\995.png,healthy,Mild DR
+148,dataset_split/dataset_split\test\healthy\996.png,healthy,Proliferative DR
+149,dataset_split/dataset_split\test\healthy\997.png,healthy,Healthy
+150,dataset_split/dataset_split\test\healthy\998.png,healthy,Healthy
+151,dataset_split/dataset_split\test\healthy\999.png,healthy,Healthy
+152,dataset_split/dataset_split\test\mild\1315.png,mild,Healthy
+153,dataset_split/dataset_split\test\mild\1316.png,mild,Healthy
+154,dataset_split/dataset_split\test\mild\1317.png,mild,Mild DR
+155,dataset_split/dataset_split\test\mild\1318.png,mild,Healthy
+156,dataset_split/dataset_split\test\mild\1319.png,mild,Healthy
+157,dataset_split/dataset_split\test\mild\1320.png,mild,Proliferative DR
+158,dataset_split/dataset_split\test\mild\1321.png,mild,Healthy
+159,dataset_split/dataset_split\test\mild\1322.png,mild,Healthy
+160,dataset_split/dataset_split\test\mild\1323.png,mild,Mild DR
+161,dataset_split/dataset_split\test\mild\1324.png,mild,Healthy
+162,dataset_split/dataset_split\test\mild\1325.png,mild,Healthy
+163,dataset_split/dataset_split\test\mild\1326.png,mild,Mild DR
+164,dataset_split/dataset_split\test\mild\1327.png,mild,Moderate DR
+165,dataset_split/dataset_split\test\mild\1328.png,mild,Healthy
+166,dataset_split/dataset_split\test\mild\1329.png,mild,Proliferative DR
+167,dataset_split/dataset_split\test\mild\1330.png,mild,Healthy
+168,dataset_split/dataset_split\test\mild\1331.png,mild,Moderate DR
+169,dataset_split/dataset_split\test\mild\1332.png,mild,Healthy
+170,dataset_split/dataset_split\test\mild\1333.png,mild,Healthy
+171,dataset_split/dataset_split\test\mild\1334.png,mild,Healthy
+172,dataset_split/dataset_split\test\mild\1335.png,mild,Healthy
+173,dataset_split/dataset_split\test\mild\1336.png,mild,Healthy
+174,dataset_split/dataset_split\test\mild\1337.png,mild,Mild DR
+175,dataset_split/dataset_split\test\mild\1338.png,mild,Healthy
+176,dataset_split/dataset_split\test\mild\1339.png,mild,Healthy
+177,dataset_split/dataset_split\test\mild\1340.png,mild,Healthy
+178,dataset_split/dataset_split\test\mild\1341.png,mild,Healthy
+179,dataset_split/dataset_split\test\mild\1342.png,mild,Healthy
+180,dataset_split/dataset_split\test\mild\1343.png,mild,Moderate DR
+181,dataset_split/dataset_split\test\mild\1344.png,mild,Healthy
+182,dataset_split/dataset_split\test\mild\1345.png,mild,Healthy
+183,dataset_split/dataset_split\test\mild\1346.png,mild,Moderate DR
+184,dataset_split/dataset_split\test\mild\1347.png,mild,Healthy
+185,dataset_split/dataset_split\test\mild\1348.png,mild,Mild DR
+186,dataset_split/dataset_split\test\mild\1349.png,mild,Mild DR
+187,dataset_split/dataset_split\test\mild\1350.png,mild,Mild DR
+188,dataset_split/dataset_split\test\mild\1351.png,mild,Mild DR
+189,dataset_split/dataset_split\test\mild\1352.png,mild,Healthy
+190,dataset_split/dataset_split\test\mild\1353.png,mild,Healthy
+191,dataset_split/dataset_split\test\mild\1354.png,mild,Mild DR
+192,dataset_split/dataset_split\test\mild\1355.png,mild,Healthy
+193,dataset_split/dataset_split\test\mild\1356.png,mild,Moderate DR
+194,dataset_split/dataset_split\test\mild\1357.png,mild,Mild DR
+195,dataset_split/dataset_split\test\mild\1358.png,mild,Healthy
+196,dataset_split/dataset_split\test\mild\1359.png,mild,Healthy
+197,dataset_split/dataset_split\test\mild\1360.png,mild,Healthy
+198,dataset_split/dataset_split\test\mild\1361.png,mild,Healthy
+199,dataset_split/dataset_split\test\mild\1362.png,mild,Proliferative DR
+200,dataset_split/dataset_split\test\mild\1363.png,mild,Mild DR
+201,dataset_split/dataset_split\test\mild\1364.png,mild,Healthy
+202,dataset_split/dataset_split\test\mild\1365.png,mild,Healthy
+203,dataset_split/dataset_split\test\mild\1366.png,mild,Healthy
+204,dataset_split/dataset_split\test\mild\1367.png,mild,Healthy
+205,dataset_split/dataset_split\test\mild\1368.png,mild,Mild DR
+206,dataset_split/dataset_split\test\mild\1369.png,mild,Healthy
+207,dataset_split/dataset_split\test\mild\1370.png,mild,Healthy
+208,dataset_split/dataset_split\test\moderate\2135.png,moderate,Mild DR
+209,dataset_split/dataset_split\test\moderate\2136.png,moderate,Mild DR
+210,dataset_split/dataset_split\test\moderate\2137.png,moderate,Moderate DR
+211,dataset_split/dataset_split\test\moderate\2138.png,moderate,Proliferative DR
+212,dataset_split/dataset_split\test\moderate\2139.png,moderate,Healthy
+213,dataset_split/dataset_split\test\moderate\2140.png,moderate,Mild DR
+214,dataset_split/dataset_split\test\moderate\2141.png,moderate,Healthy
+215,dataset_split/dataset_split\test\moderate\2142.png,moderate,Moderate DR
+216,dataset_split/dataset_split\test\moderate\2143.png,moderate,Healthy
+217,dataset_split/dataset_split\test\moderate\2144.png,moderate,Mild DR
+218,dataset_split/dataset_split\test\moderate\2145.png,moderate,Mild DR
+219,dataset_split/dataset_split\test\moderate\2146.png,moderate,Healthy
+220,dataset_split/dataset_split\test\moderate\2147.png,moderate,Moderate DR
+221,dataset_split/dataset_split\test\moderate\2148.png,moderate,Healthy
+222,dataset_split/dataset_split\test\moderate\2149.png,moderate,Mild DR
+223,dataset_split/dataset_split\test\moderate\2150.png,moderate,Healthy
+224,dataset_split/dataset_split\test\moderate\2151.png,moderate,Mild DR
+225,dataset_split/dataset_split\test\moderate\2152.png,moderate,Mild DR
+226,dataset_split/dataset_split\test\moderate\2153.png,moderate,Mild DR
+227,dataset_split/dataset_split\test\moderate\2154.png,moderate,Mild DR
+228,dataset_split/dataset_split\test\moderate\2155.png,moderate,Healthy
+229,dataset_split/dataset_split\test\moderate\2156.png,moderate,Mild DR
+230,dataset_split/dataset_split\test\moderate\2157.png,moderate,Mild DR
+231,dataset_split/dataset_split\test\moderate\2158.png,moderate,Healthy
+232,dataset_split/dataset_split\test\moderate\2159.png,moderate,Healthy
+233,dataset_split/dataset_split\test\moderate\2160.png,moderate,Mild DR
+234,dataset_split/dataset_split\test\moderate\2161.png,moderate,Mild DR
+235,dataset_split/dataset_split\test\moderate\2162.png,moderate,Mild DR
+236,dataset_split/dataset_split\test\moderate\2163.png,moderate,Proliferative DR
+237,dataset_split/dataset_split\test\moderate\2164.png,moderate,Mild DR
+238,dataset_split/dataset_split\test\moderate\2165.png,moderate,Healthy
+239,dataset_split/dataset_split\test\moderate\2166.png,moderate,Healthy
+240,dataset_split/dataset_split\test\moderate\2167.png,moderate,Mild DR
+241,dataset_split/dataset_split\test\moderate\2168.png,moderate,Mild DR
+242,dataset_split/dataset_split\test\moderate\2169.png,moderate,Healthy
+243,dataset_split/dataset_split\test\moderate\2170.png,moderate,Moderate DR
+244,dataset_split/dataset_split\test\moderate\2171.png,moderate,Mild DR
+245,dataset_split/dataset_split\test\moderate\2172.png,moderate,Healthy
+246,dataset_split/dataset_split\test\moderate\2173.png,moderate,Mild DR
+247,dataset_split/dataset_split\test\moderate\2174.png,moderate,Healthy
+248,dataset_split/dataset_split\test\moderate\2175.png,moderate,Mild DR
+249,dataset_split/dataset_split\test\moderate\2176.png,moderate,Mild DR
+250,dataset_split/dataset_split\test\moderate\2177.png,moderate,Moderate DR
+251,dataset_split/dataset_split\test\moderate\2178.png,moderate,Moderate DR
+252,dataset_split/dataset_split\test\moderate\2179.png,moderate,Mild DR
+253,dataset_split/dataset_split\test\moderate\2180.png,moderate,Moderate DR
+254,dataset_split/dataset_split\test\moderate\2181.png,moderate,Mild DR
+255,dataset_split/dataset_split\test\moderate\2182.png,moderate,Mild DR
+256,dataset_split/dataset_split\test\moderate\2183.png,moderate,Healthy
+257,dataset_split/dataset_split\test\moderate\2184.png,moderate,Moderate DR
+258,dataset_split/dataset_split\test\moderate\2185.png,moderate,Mild DR
+259,dataset_split/dataset_split\test\moderate\2186.png,moderate,Mild DR
+260,dataset_split/dataset_split\test\moderate\2187.png,moderate,Mild DR
+261,dataset_split/dataset_split\test\moderate\2188.png,moderate,Mild DR
+262,dataset_split/dataset_split\test\moderate\2189.png,moderate,Mild DR
+263,dataset_split/dataset_split\test\moderate\2190.png,moderate,Moderate DR
+264,dataset_split/dataset_split\test\moderate\2191.png,moderate,Moderate DR
+265,dataset_split/dataset_split\test\moderate\2192.png,moderate,Healthy
+266,dataset_split/dataset_split\test\moderate\2193.png,moderate,Healthy
+267,dataset_split/dataset_split\test\moderate\2194.png,moderate,Mild DR
+268,dataset_split/dataset_split\test\moderate\2195.png,moderate,Moderate DR
+269,dataset_split/dataset_split\test\moderate\2196.png,moderate,Healthy
+270,dataset_split/dataset_split\test\moderate\2197.png,moderate,Mild DR
+271,dataset_split/dataset_split\test\moderate\2198.png,moderate,Moderate DR
+272,dataset_split/dataset_split\test\moderate\2199.png,moderate,Healthy
+273,dataset_split/dataset_split\test\moderate\2200.png,moderate,Healthy
+274,dataset_split/dataset_split\test\moderate\2201.png,moderate,Moderate DR
+275,dataset_split/dataset_split\test\moderate\2202.png,moderate,Mild DR
+276,dataset_split/dataset_split\test\moderate\2203.png,moderate,Healthy
+277,dataset_split/dataset_split\test\moderate\2204.png,moderate,Mild DR
+278,dataset_split/dataset_split\test\moderate\2205.png,moderate,Moderate DR
+279,dataset_split/dataset_split\test\moderate\2206.png,moderate,Healthy
+280,dataset_split/dataset_split\test\moderate\2207.png,moderate,Healthy
+281,dataset_split/dataset_split\test\moderate\2208.png,moderate,Healthy
+282,dataset_split/dataset_split\test\moderate\2209.png,moderate,Healthy
+283,dataset_split/dataset_split\test\moderate\2210.png,moderate,Mild DR
+284,dataset_split/dataset_split\test\moderate\2211.png,moderate,Mild DR
+285,dataset_split/dataset_split\test\moderate\2212.png,moderate,Mild DR
+286,dataset_split/dataset_split\test\moderate\2213.png,moderate,Moderate DR
+287,dataset_split/dataset_split\test\moderate\2214.png,moderate,Mild DR
+288,dataset_split/dataset_split\test\moderate\2215.png,moderate,Mild DR
+289,dataset_split/dataset_split\test\moderate\2216.png,moderate,Healthy
+290,dataset_split/dataset_split\test\moderate\2217.png,moderate,Healthy
+291,dataset_split/dataset_split\test\moderate\2218.png,moderate,Moderate DR
+292,dataset_split/dataset_split\test\moderate\2219.png,moderate,Mild DR
+293,dataset_split/dataset_split\test\moderate\2220.png,moderate,Healthy
+294,dataset_split/dataset_split\test\moderate\2221.png,moderate,Healthy
+295,dataset_split/dataset_split\test\moderate\2222.png,moderate,Mild DR
+296,dataset_split/dataset_split\test\moderate\2223.png,moderate,Mild DR
+297,dataset_split/dataset_split\test\moderate\2224.png,moderate,Healthy
+298,dataset_split/dataset_split\test\moderate\2225.png,moderate,Healthy
+299,dataset_split/dataset_split\test\moderate\2226.png,moderate,Mild DR
+300,dataset_split/dataset_split\test\moderate\2227.png,moderate,Healthy
+301,dataset_split/dataset_split\test\moderate\2228.png,moderate,Mild DR
+302,dataset_split/dataset_split\test\moderate\2229.png,moderate,Mild DR
+303,dataset_split/dataset_split\test\moderate\2230.png,moderate,Mild DR
+304,dataset_split/dataset_split\test\moderate\2231.png,moderate,Moderate DR
+305,dataset_split/dataset_split\test\moderate\2232.png,moderate,Mild DR
+306,dataset_split/dataset_split\test\moderate\2233.png,moderate,Mild DR
+307,dataset_split/dataset_split\test\moderate\2234.png,moderate,Mild DR
+308,dataset_split/dataset_split\test\moderate\2235.png,moderate,Moderate DR
+309,dataset_split/dataset_split\test\moderate\2236.png,moderate,Healthy
+310,dataset_split/dataset_split\test\moderate\2237.png,moderate,Healthy
+311,dataset_split/dataset_split\test\moderate\2238.png,moderate,Healthy
+312,dataset_split/dataset_split\test\moderate\2239.png,moderate,Proliferative DR
+313,dataset_split/dataset_split\test\moderate\2240.png,moderate,Healthy
+314,dataset_split/dataset_split\test\moderate\2241.png,moderate,Mild DR
+315,dataset_split/dataset_split\test\moderate\2242.png,moderate,Moderate DR
+316,dataset_split/dataset_split\test\moderate\2243.png,moderate,Moderate DR
+317,dataset_split/dataset_split\test\moderate\2244.png,moderate,Mild DR
+318,dataset_split/dataset_split\test\moderate\2245.png,moderate,Healthy
+319,dataset_split/dataset_split\test\moderate\2246.png,moderate,Healthy
+320,dataset_split/dataset_split\test\moderate\2247.png,moderate,Moderate DR
+321,dataset_split/dataset_split\test\moderate\2248.png,moderate,Mild DR
+322,dataset_split/dataset_split\test\moderate\2249.png,moderate,Mild DR
+323,dataset_split/dataset_split\test\moderate\2250.png,moderate,Healthy
+324,dataset_split/dataset_split\test\moderate\2251.png,moderate,Mild DR
+325,dataset_split/dataset_split\test\moderate\2252.png,moderate,Mild DR
+326,dataset_split/dataset_split\test\moderate\2253.png,moderate,Healthy
+327,dataset_split/dataset_split\test\moderate\2254.png,moderate,Moderate DR
+328,dataset_split/dataset_split\test\moderate\2255.png,moderate,Mild DR
+329,dataset_split/dataset_split\test\moderate\2256.png,moderate,Mild DR
+330,dataset_split/dataset_split\test\moderate\2257.png,moderate,Mild DR
+331,dataset_split/dataset_split\test\moderate\2258.png,moderate,Healthy
+332,dataset_split/dataset_split\test\moderate\2259.png,moderate,Mild DR
+333,dataset_split/dataset_split\test\moderate\2260.png,moderate,Mild DR
+334,dataset_split/dataset_split\test\moderate\2261.png,moderate,Mild DR
+335,dataset_split/dataset_split\test\moderate\2262.png,moderate,Mild DR
+336,dataset_split/dataset_split\test\moderate\2263.png,moderate,Healthy
+337,dataset_split/dataset_split\test\moderate\2264.png,moderate,Moderate DR
+338,dataset_split/dataset_split\test\moderate\2265.png,moderate,Healthy
+339,dataset_split/dataset_split\test\moderate\2266.png,moderate,Mild DR
+340,dataset_split/dataset_split\test\moderate\2267.png,moderate,Mild DR
+341,dataset_split/dataset_split\test\moderate\2268.png,moderate,Mild DR
+342,dataset_split/dataset_split\test\moderate\2269.png,moderate,Healthy
+343,dataset_split/dataset_split\test\moderate\2270.png,moderate,Mild DR
+344,dataset_split/dataset_split\test\proliferate\2517.png,proliferate,Moderate DR
+345,dataset_split/dataset_split\test\proliferate\2518.png,proliferate,Moderate DR
+346,dataset_split/dataset_split\test\proliferate\2519.png,proliferate,Moderate DR
+347,dataset_split/dataset_split\test\proliferate\2520.png,proliferate,Proliferative DR
+348,dataset_split/dataset_split\test\proliferate\2521.png,proliferate,Healthy
+349,dataset_split/dataset_split\test\proliferate\2522.png,proliferate,Healthy
+350,dataset_split/dataset_split\test\proliferate\2523.png,proliferate,Healthy
+351,dataset_split/dataset_split\test\proliferate\2524.png,proliferate,Healthy
+352,dataset_split/dataset_split\test\proliferate\2525.png,proliferate,Mild DR
+353,dataset_split/dataset_split\test\proliferate\2526.png,proliferate,Healthy
+354,dataset_split/dataset_split\test\proliferate\2527.png,proliferate,Proliferative DR
+355,dataset_split/dataset_split\test\proliferate\2528.png,proliferate,Healthy
+356,dataset_split/dataset_split\test\proliferate\2529.png,proliferate,Healthy
+357,dataset_split/dataset_split\test\proliferate\2530.png,proliferate,Healthy
+358,dataset_split/dataset_split\test\proliferate\2531.png,proliferate,Moderate DR
+359,dataset_split/dataset_split\test\proliferate\2532.png,proliferate,Moderate DR
+360,dataset_split/dataset_split\test\proliferate\2533.png,proliferate,Moderate DR
+361,dataset_split/dataset_split\test\proliferate\2534.png,proliferate,Healthy
+362,dataset_split/dataset_split\test\proliferate\2535.png,proliferate,Mild DR
+363,dataset_split/dataset_split\test\proliferate\2536.png,proliferate,Moderate DR
+364,dataset_split/dataset_split\test\proliferate\2537.png,proliferate,Moderate DR
+365,dataset_split/dataset_split\test\proliferate\2538.png,proliferate,Healthy
+366,dataset_split/dataset_split\test\proliferate\2539.png,proliferate,Moderate DR
+367,dataset_split/dataset_split\test\proliferate\2540.png,proliferate,Mild DR
+368,dataset_split/dataset_split\test\proliferate\2541.png,proliferate,Healthy
+369,dataset_split/dataset_split\test\proliferate\2542.png,proliferate,Moderate DR
+370,dataset_split/dataset_split\test\proliferate\2543.png,proliferate,Healthy
+371,dataset_split/dataset_split\test\proliferate\2544.png,proliferate,Healthy
+372,dataset_split/dataset_split\test\proliferate\2545.png,proliferate,Mild DR
+373,dataset_split/dataset_split\test\proliferate\2546.png,proliferate,Moderate DR
+374,dataset_split/dataset_split\test\proliferate\2547.png,proliferate,Moderate DR
+375,dataset_split/dataset_split\test\proliferate\2548.png,proliferate,Mild DR
+376,dataset_split/dataset_split\test\proliferate\2549.png,proliferate,Moderate DR
+377,dataset_split/dataset_split\test\proliferate\2550.png,proliferate,Healthy
+378,dataset_split/dataset_split\test\proliferate\2551.png,proliferate,Moderate DR
+379,dataset_split/dataset_split\test\proliferate\2552.png,proliferate,Mild DR
+380,dataset_split/dataset_split\test\proliferate\2553.png,proliferate,Moderate DR
+381,dataset_split/dataset_split\test\proliferate\2554.png,proliferate,Mild DR
+382,dataset_split/dataset_split\test\proliferate\2555.png,proliferate,Healthy
+383,dataset_split/dataset_split\test\proliferate\2556.png,proliferate,Mild DR
+384,dataset_split/dataset_split\test\proliferate\2557.png,proliferate,Moderate DR
+385,dataset_split/dataset_split\test\proliferate\2558.png,proliferate,Mild DR
+386,dataset_split/dataset_split\test\proliferate\2559.png,proliferate,Healthy
+387,dataset_split/dataset_split\test\proliferate\2560.png,proliferate,Mild DR
+388,dataset_split/dataset_split\test\severe\2722.png,severe,Moderate DR
+389,dataset_split/dataset_split\test\severe\2723.png,severe,Moderate DR
+390,dataset_split/dataset_split\test\severe\2724.png,severe,Healthy
+391,dataset_split/dataset_split\test\severe\2725.png,severe,Moderate DR
+392,dataset_split/dataset_split\test\severe\2726.png,severe,Moderate DR
+393,dataset_split/dataset_split\test\severe\2727.png,severe,Healthy
+394,dataset_split/dataset_split\test\severe\2728.png,severe,Moderate DR
+395,dataset_split/dataset_split\test\severe\2729.png,severe,Moderate DR
+396,dataset_split/dataset_split\test\severe\2730.png,severe,Healthy
+397,dataset_split/dataset_split\test\severe\2731.png,severe,Healthy
+398,dataset_split/dataset_split\test\severe\2732.png,severe,Moderate DR
+399,dataset_split/dataset_split\test\severe\2733.png,severe,Moderate DR
+400,dataset_split/dataset_split\test\severe\2734.png,severe,Healthy
+401,dataset_split/dataset_split\test\severe\2735.png,severe,Healthy
+402,dataset_split/dataset_split\test\severe\2736.png,severe,Mild DR
+403,dataset_split/dataset_split\test\severe\2737.png,severe,Mild DR
+404,dataset_split/dataset_split\test\severe\2738.png,severe,Moderate DR
+405,dataset_split/dataset_split\test\severe\2739.png,severe,Mild DR
+406,dataset_split/dataset_split\test\severe\2740.png,severe,Mild DR
+407,dataset_split/dataset_split\test\severe\2741.png,severe,Healthy
+408,dataset_split/dataset_split\test\severe\2742.png,severe,Healthy
+409,dataset_split/dataset_split\test\severe\2743.png,severe,Mild DR
+410,dataset_split/dataset_split\test\severe\2744.png,severe,Moderate DR
+411,dataset_split/dataset_split\test\severe\2745.png,severe,Proliferative DR
+412,dataset_split/dataset_split\test\severe\2746.png,severe,Mild DR
+413,dataset_split/dataset_split\test\severe\2747.png,severe,Proliferative DR
+414,dataset_split/dataset_split\test\severe\2748.png,severe,Healthy
+415,dataset_split/dataset_split\test\severe\2749.png,severe,Healthy
+416,dataset_split/dataset_split\test\severe\2750.png,severe,Mild DR
